@@ -1,2 +1,3 @@
 # head-2-head
-Algorithm that looks at 2 strings of text and finds the words that are most unique to each. I.E words that appear most string A but least in string B.
+A simple game that lets the user pick a winner between 2 presented options. Winner receives a portion of the loser's score. Edit
+Add topics
